@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "maggie",
+      "price": "212",
+      "id": 1
+    },
+    {
+      "name": "noodles",
+      "price": "15",
+      "id": 2
+    },
+    {
+      "name": "pulses",
+      "price": "100",
+      "id": 3
+    }
+  ]
+}
